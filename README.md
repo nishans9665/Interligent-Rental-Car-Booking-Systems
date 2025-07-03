@@ -33,8 +33,8 @@ git clone https://github.com/nishans9665/Interligent-Rental-Car-Booking-Systems.
 ## 👨‍💻 Author
 
 **Nishan Sameera**  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Portfolio](https://your-portfolio.com) *(optional)*
+[LinkedIn](www.linkedin.com/in/nishan-sameera)  
+[Portfolio](https://codefoxit.com) *(optional)*
 
 ## 📃 License
 
